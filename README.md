@@ -35,6 +35,9 @@
 
 【报名截止：2022.9.25】[西安电子科技大学网络与信息安全学院关于2023年推荐免试研究生招生预报名的通知](https://ce.xidian.edu.cn/info/1324/8773.htm)
 
+# 西湖大学
+
+【报名截止：2022.9.12】[西湖大学2023年推免直博生招生报名启动](https://mp.weixin.qq.com/s/bZ7xuCsY_cpkeS4zoZ6W4A)    
 
 
 # CSLabInfo2022
