@@ -9,6 +9,10 @@
 
 ~~【报名截止：2022.8.31】[清华大学2023年接收优秀应届本科毕业生免试攻读研究生报名通知](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/eda04b74-d885-4019-9aa9-7e86a6aee19d)~~
 
+# 北京大学
+
+【报名截止：2022.9.16】[北京大学 2023 年接收推荐免试研究生办法（校本部）](https://admission.pku.edu.cn/docs/20220907135229009307.pdf?CSRFT=HUD0-IU13-UQXT-68AG-5VS1-NLSY-EORL-1CJG)
+
 # 中国科学院（大学）
 
 ~~【报名截止：2022.9.1】[中国科学院自动化研究所2023年接收推荐免试生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202208/t20220802_6496096.html)~~
