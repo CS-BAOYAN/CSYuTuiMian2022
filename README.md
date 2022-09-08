@@ -11,8 +11,6 @@
 
 # 北京大学
 
-【报名截止：2022.9.16】[北京大学 2023 年接收推荐免试研究生办法（校本部）](https://admission.pku.edu.cn/docs/20220907135229009307.pdf?CSRFT=HUD0-IU13-UQXT-68AG-5VS1-NLSY-EORL-1CJG)
-
 【报名截止：2022.9.16】[北京大学信息工程学院2023年接收推荐免试研究生说明](https://www.ece.pku.edu.cn/info/1025/2493.htm)
 
 【报名截止：2022.9.15】[北京大学软件与微电子学院2023年接收推荐免试 硕士研究生 ](http://ss.pku.edu.cn/index.php/admission/admnotice/4364)/[ 博士研究生 招生说明](http://ss.pku.edu.cn/index.php/admission/admnotice/4365)
