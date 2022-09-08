@@ -15,6 +15,8 @@
 
 【报名截止：2022.9.16】[北京大学信息工程学院2023年接收推荐免试研究生说明](https://www.ece.pku.edu.cn/info/1025/2493.htm)
 
+【报名截止：2022.9.15】[北京大学软件与微电子学院2023年接收推荐免试 硕士研究生 ](http://ss.pku.edu.cn/index.php/admission/admnotice/4364)/[ 博士研究生 招生说明](http://ss.pku.edu.cn/index.php/admission/admnotice/4365)
+
 # 中国科学院（大学）
 
 ~~【报名截止：2022.9.1】[中国科学院自动化研究所2023年接收推荐免试生简章](http://www.ia.cas.cn/yjsjy/zs/sszs/202208/t20220802_6496096.html)~~
