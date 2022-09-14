@@ -39,9 +39,9 @@
 
 # 上海交通大学
 
-【报名截止：2022.8.22/2022.9.12】[上海交大密西根学院工学类专业2023年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/recommended-master-doctor-zh/2022-08-05/132751/)
+~~【报名截止：2022.8.22/2022.9.12】[上海交大密西根学院工学类专业2023年招收优秀应届本科毕业生免试攻读研究生的通知](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/recommended-master-doctor-zh/2022-08-05/132751/)~~
 
-【报名截止：2022.9.13】[电院2023级推荐免试直升研究生招生通知](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/34865.htm)
+~~【报名截止：2022.9.13】[电院2023级推荐免试直升研究生招生通知](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/34865.htm)~~
 
 # 复旦大学
 
@@ -130,7 +130,7 @@
 
 # 中国海洋大学
 
-【报名截止：2022.9.13】[中国海洋大学2023年接收推荐免试研究生的通知](http://yz.ouc.edu.cn/2022/0823/c5926a375920/page.htm)
+~~【报名截止：2022.9.13】[中国海洋大学2023年接收推荐免试研究生的通知](http://yz.ouc.edu.cn/2022/0823/c5926a375920/page.htm)~~
 
 # 南京理工大学
 
